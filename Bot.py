@@ -82,4 +82,5 @@ def all(client , message):
                     break
 
 
-app.r
+app.run()
+
